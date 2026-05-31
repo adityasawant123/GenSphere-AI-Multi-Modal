@@ -12,4 +12,3 @@ public class SpringAiDemoApplication {
 
 }
 
-//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
