@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringAiDemo/SpringAiDemo/SpringAiDemo.iml" filepath="$PROJECT_DIR$/SpringAiDemo/SpringAiDemo/SpringAiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringStockPhoto.iml" filepath="$PROJECT_DIR$/.idea/SpringStockPhoto.iml" />
+    </modules>
+  </component>
+</project>
